@@ -1,0 +1,16 @@
+VIT PUNE — SAMPLE HOSTEL RULES
+Document type: Student accommodation
+Status: Fictional sample document created for a RAG lab; not an official VIT Pune policy.
+Version: 1.0
+
+GATE TIMINGS
+The hostel gate closes at 10:00 pm on weekdays and 11:00 pm on weekends. Students returning after the applicable closing time must contact the hostel warden and follow the late-entry procedure. This sample document does not promise that late entry will automatically be permitted.
+
+VISITORS
+Visitors may meet residents only in the designated common room between 4:00 pm and 6:00 pm. Visitors are not permitted inside student rooms under this sample policy. Visitors must follow security staff instructions and sign the visitor register when requested.
+
+OVERNIGHT ABSENCE
+A resident planning to stay away from the hostel overnight must inform the warden in writing before leaving. The notice should include the expected date of return and a reachable contact number. This sample document does not specify a standard fine for failing to notify the warden.
+
+MESS TIMINGS
+Breakfast is served from 7:00 am to 9:00 am. Dinner is served from 7:00 pm to 9:00 pm. These are serving times, not a guarantee that every menu item will be available throughout the serving period. The weekly menu is not included in this document.

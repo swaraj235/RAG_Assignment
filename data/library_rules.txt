@@ -1,0 +1,16 @@
+VIT PUNE — SAMPLE LIBRARY RULES
+Document type: Library services
+Status: Fictional sample document created for a RAG lab; not an official VIT Pune policy.
+Version: 1.0
+
+OPENING HOURS
+The library is open from 8:00 am to 8:00 pm Monday through Friday. On Saturdays, it is open from 9:00 am to 2:00 pm. This sample document does not state Sunday opening hours or special holiday hours.
+
+BORROWING
+Each student may borrow up to three books at a time. The standard borrowing period is 14 calendar days. Students should check the due date recorded for each item. This sample document does not specify a separate borrowing limit for faculty members.
+
+LATE RETURNS
+A fine of ₹2 per book per day is charged for books returned after the due date. The sample policy does not describe a maximum fine or a grace period.
+
+RESTRICTED MATERIALS
+Reference books and print journals must be used inside the library and cannot be taken out on loan. Other lending conditions may apply to special collections, but those conditions are not described in this sample document.
